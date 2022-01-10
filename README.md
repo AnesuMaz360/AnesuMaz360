@@ -1,7 +1,8 @@
-- Hi,👋 I’m Anesu Mazvimavi!
-- 👀 I’m interested in developing and designing
+- Hi,👋 I’m Anesu Mazvimavi!. I'm a flutter developer. I'm naturally a visual artist specialising in painting, drawing and design. I further took up my artistic abilities and combined them with programming and then became a developer. The abilities of programming and design have made me a good problem solver (I think!!!!) 😁
+
+- 👀 I’m interested in coding and designing
 - 🌱 I’m currently learning mostly Flutter but open minded to other frameworks
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for a remote full time flutter developer job 😅
 - 📫 How to reach me: Email or Instagram
 - ⚡ Fun fact: Arsenal Football Club is my first love ♥
 
